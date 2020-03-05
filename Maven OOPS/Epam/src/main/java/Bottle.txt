@@ -1,0 +1,6 @@
+
+public interface Bottle {
+	int weight(int tw);
+	int no_candy(int l,int h,int s);
+
+}
